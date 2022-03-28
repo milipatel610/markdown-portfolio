@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# here is my unodered list
+- long walk
+- eating
+- reading
